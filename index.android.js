@@ -17,7 +17,7 @@ export default class PlatziMusic extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to React Native!
+          Bienvenido a la Aplicacion super genia3ssl2!
         </Text>
         <Text style={styles.instructions}>
           To get started, edit index.android.js
